@@ -1,5 +1,5 @@
-# compiler_project
-compiler project for OCR
+# MAchine Learning project
+MAchine Learning for OCR
 
 STEP 1:
 RUN python Main-Server.py sample.pdf 
